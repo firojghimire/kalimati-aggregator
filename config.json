@@ -1,0 +1,7 @@
+{
+  "fileName": "data.csv",
+  "startDate": "2014-09-18",
+  "endDate": "2014-09-21",
+  "headers": "वस्तु,एकाइ,न्यूनतम,अधिकतम,औसत,मिति\n",
+  "downloadDir": "../cypress/downloads/"
+}
